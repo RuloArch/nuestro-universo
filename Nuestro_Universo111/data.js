@@ -794,7 +794,7 @@ const memories = [
     title: "Festival del Globo + Quesadillas",
     date: "14/11/2026",
     figure: "nosotros, bajo un cielo lleno de globos",
-    description: "¿Qué? ¿Un festival del globo? ¡Así es, por fin llegó! Desde las 4 de la mañana nos preparamos para ver un espectáculo de colores en el cielo, sin duda alguna uno de los mejores momentos que he vivido al lado de mi novia. Y yo le agradezco que me haya dejado invitarla y deleitarme con su hermosa presencia.\n\nLuego del festival fuimos a desayunar las famosísimas Duesadillas de Don David, a Hania le encantaron y pedimos 2 juguitos boing. Luego de eso nos quedamos un rato más juntos <3",
+    description: "¿Qué? ¿Un festival del globo? ¡Así es, por fin llegó! Desde las 4 de la mañana nos preparamos para ver un espectáculo de colores en el cielo, sin duda alguna uno de los mejores momentos que he vivido al lado de mi novia. Y yo le agradezco que me haya dejado invitarla y deleitarme con su hermosa presencia.\n\nLuego del festival fuimos a desayunar las famosísimas Quesadillas de Don David, a Hania le encantaron y pedimos 2 juguitos boing. Luego de eso nos quedamos un rato más juntos <3",
     stars: TRACED["28"].stars,
     lines: TRACED["28"].lines
   },
